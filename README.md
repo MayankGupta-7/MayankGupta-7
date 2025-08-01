@@ -11,10 +11,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MayankGupta-7/MayankGupta-7/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -42,6 +38,10 @@
 ###
 
 <img align="right" height="136" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFpdDUyM2lsaGd0ejRjMDgxMnEycTV3d2xsNm0xbmM2dWk1NGM5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/MayankGupta-7/MayankGupta-7/output/snake.svg" alt="Snake animation" />
 
 ###
 
